@@ -4,15 +4,21 @@
 
 下载网址：https://git.io/fgp
 
+本地下载：https://github.com/chengyuan98/up/blob/master/fgp.zip
+
 #### 2、无界：
 
 下载网址：https://git.io/vEJlj
+
+本地下载：https://github.com/chengyuan98/up/blob/master/u1704.zip
 
 #### 3、赛风：
 
 下载网址：https://s3.amazonaws.com/psiphon/web/u1dy-me41-s9yv/zh/download.html
 
-注：三个著名翻墙软件，不需要安装，直接点击程序即可使用，连通后自动打开浏览器。
+本地下载：https://github.com/chengyuan98/up/blob/master/psiphon3.exe
+
+注：以上翻墙软件不需要安装，直接点击程序即可使用，连通后自动打开浏览器。
 
 各地的网络情况不同，不见得每款软件都能翻墙出去，但都被封锁住也不容易。
 
