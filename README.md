@@ -2,19 +2,19 @@
 
 #### 1、自由门：
 
-下载网址：https://git.io/fgp
+官方下载：https://git.io/fgp
 
 本地下载：https://github.com/chengyuan98/up/blob/master/fgp.zip
 
 #### 2、无界：
 
-下载网址：https://git.io/vEJlj
+官方下载：https://git.io/vEJlj
 
 本地下载：https://github.com/chengyuan98/up/blob/master/u1802.exe
 
 #### 3、赛风：
 
-下载网址：https://s3.amazonaws.com/psiphon/web/u1dy-me41-s9yv/zh/download.html
+官方下载：https://s3.amazonaws.com/psiphon/web/u1dy-me41-s9yv/zh/download.html
 
 本地下载：https://github.com/chengyuan98/up/blob/master/psiphon3.exe
 
