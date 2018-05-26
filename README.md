@@ -4,19 +4,19 @@
 
 官方下载：https://git.io/fgp
 
-本地下载：https://github.com/chengyuan98/up/blob/master/fgp.zip
+本地下载：https://github.com/chengyuan98/up/raw/master/fgp.zip
 
 #### 2、无界：
 
 官方下载：https://git.io/vEJlj
 
-本地下载：https://github.com/chengyuan98/up/blob/master/u1802.exe
+本地下载：https://github.com/chengyuan98/up/raw/master/u1802.exe
 
 #### 3、赛风：
 
 官方下载：https://s3.amazonaws.com/psiphon/web/u1dy-me41-s9yv/zh/download.html
 
-本地下载：https://github.com/chengyuan98/up/blob/master/psiphon3.exe
+本地下载：https://github.com/chengyuan98/up/raw/master/psiphon3.exe
 
 注：以上翻墙软件不需要安装，直接点击程序即可使用，连通后自动打开浏览器。
 
@@ -41,3 +41,6 @@
 国产浏览器可能受制于网监部门，推荐使用原版的谷歌浏览器。
 
 官方网址：https://www.google.cn/intl/zh-CN/chrome/
+
+或离线包下载：https://pan.lanzou.com/b112274/
+
