@@ -10,7 +10,7 @@
 
 下载网址：https://git.io/vEJlj
 
-本地下载：https://github.com/chengyuan98/up/blob/master/u1704.zip
+本地下载：https://github.com/chengyuan98/up/blob/master/u1802.exe
 
 #### 3、赛风：
 
