@@ -41,5 +41,3 @@
 国产浏览器可能受制于网监部门，推荐使用原版的谷歌浏览器。
 
 官方网址：https://www.google.cn/intl/zh-CN/chrome/
-
-或离线包下载：https://pan.lanzou.com/b112274/
