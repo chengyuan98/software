@@ -10,7 +10,7 @@
 
 官方下载：https://git.io/vEJlj
 
-本地下载：https://github.com/chengyuan98/up/raw/master/u1902.exe
+本地下载：https://github.com/chengyuan98/up/raw/master/U1902.exe
 
 #### 3、赛风：
 
