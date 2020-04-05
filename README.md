@@ -4,13 +4,13 @@
 
 官方下载：https://git.io/fgp
 
-本地下载：https://github.com/chengyuan98/up/raw/master/fgp.zip
+本地下载：https://github.com/chengyuan98/up/raw/master/fg778p.exe （2020年3月18日版本）
 
 #### 2、无界：
 
 官方下载：https://git.io/vEJlj
 
-本地下载：https://github.com/chengyuan98/up/raw/master/U1902.exe
+本地下载：https://github.com/chengyuan98/up/raw/master/U1902.exe （2019年2月12日版本）
 
 #### 3、赛风：
 
@@ -19,6 +19,8 @@
 本地下载：https://github.com/chengyuan98/up/raw/master/psiphon3.exe
 
 注：以上翻墙软件不需要安装，直接点击程序即可使用，连通后自动打开浏览器。
+
+** 新版自由门软件初次运行时，提示安装更强突破封锁的封包过滤器。
 
 各地的网络情况不同，不见得每款软件都能翻墙出去，但都被封锁住也不容易。
 
@@ -34,7 +36,7 @@
 
 在谷歌 https://www.google.com/ 上搜索“动态”，即可看到动态新闻。
 
-动态网官方网址：http://dongtaiwang.com/loc/phome.php?v=0 
+动态网官方网址：http://dongtaiwang.com/loc/phome.php 
 
 #### 6、推荐使用谷歌Chrome浏览器
 
