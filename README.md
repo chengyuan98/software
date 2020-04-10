@@ -32,13 +32,7 @@
 
 这里的翻墙软件均源自官方网站，并经过数字签名及杀毒软件检测，请放心使用。
 
-#### 5、翻墙后看动态新闻
-
-在谷歌 https://www.google.com/ 上搜索“动态”，即可看到动态新闻。
-
-动态网官方网址：http://dongtaiwang.com/loc/phome.php 
-
-#### 6、推荐使用谷歌Chrome浏览器
+#### 5、推荐使用谷歌Chrome浏览器
 
 国产浏览器可能受制于网监部门，推荐使用原版的谷歌浏览器。
 
@@ -46,3 +40,12 @@
 
 或离线包下载：https://pan.lanzou.com/b112274/
 
+#### 6、翻墙Chrome浏览器（skyZIP扩展）
+
+请转到 https://github.com/chengyuan98/browser
+
+#### 7、翻墙后看动态新闻
+
+在谷歌 https://www.google.com/ 上搜索“动态”，即可看到动态新闻。
+
+动态网官方网址：http://dongtaiwang.com/loc/phome.php 
