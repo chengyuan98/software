@@ -4,13 +4,13 @@
 
 官方下载：https://git.io/fgp
 
-本地下载：https://github.com/chengyuan98/up/raw/master/fg778p.exe （2020年3月18日版本）
+本地下载：https://github.com/chengyuan98/up/raw/master/fg788p.exe （2020年7月20日发布）
 
 #### 2、无界：
 
 官方下载：https://git.io/vEJlj
 
-本地下载：https://github.com/chengyuan98/up/raw/master/U1902.exe （2019年2月12日版本）
+本地下载：https://github.com/chengyuan98/up/raw/master/U1902.exe （2019年2月15日发布）
 
 #### 3、赛风：
 
