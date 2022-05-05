@@ -2,15 +2,15 @@
 
 #### 1、自由门：
 
-官方下载：https://git.io/fgp
+官方下载：https://j.mp/fgp88
 
-本地下载：https://github.com/chengyuan98/up/raw/master/fg788p.exe （2020年7月20日发布）
+本地下载：https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/fgp.zip
 
 #### 2、无界：
 
 官方下载：https://git.io/vEJlj
 
-本地下载：https://github.com/chengyuan98/up/raw/master/U1902.exe （2019年2月15日发布）
+本地下载：https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/u.zip
 
 #### 3、赛风：
 
@@ -32,19 +32,15 @@
 
 这里的翻墙软件均源自官方网站，并经过数字签名及杀毒软件检测，请放心使用。
 
-#### 5、翻墙Chrome浏览器（skyZIP扩展）
-
-请转到 https://github.com/chengyuan98/browser
-
-#### 6、推荐使用谷歌Chrome浏览器
+#### 5、推荐使用谷歌Chrome浏览器
 
 国产浏览器可能受制于网监部门，推荐使用原版的谷歌浏览器。
 
 官方网址：https://www.google.cn/intl/zh-CN/chrome/
 
-或离线包下载：https://pan.lanzou.com/b112274/
+或便携版谷歌浏览器：https://portableapps.com/apps/internet/google_chrome_portable
 
-#### 7、翻墙后看动态新闻
+#### 6、翻墙后看动态新闻
 
 在谷歌 https://www.google.com/ 上搜索“动态”，即可看到动态新闻。
 
