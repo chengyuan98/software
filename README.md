@@ -41,9 +41,9 @@
 
 #### 直接点击下列链接阅读：
 
-<h3><a target="_blank" href="https://github.com/gwy252/djy/blob/master/gb/nf1351518.md#1">&nbsp;&nbsp;大纪元新闻首页</a></h3>
+<h3><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/nf1351518.md#1">&nbsp;&nbsp;大纪元新闻首页</a></h3>
 
-<h3><a target="_blank" href="https://github.com/gwy252/ntdtv/blob/master/gb/prog204.md#1">&nbsp;&nbsp;新唐人新闻首页</a></h3>
+<h3><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog204.md#1">&nbsp;&nbsp;新唐人新闻首页</a></h3>
 
 <h3><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhongguo.md">明慧周报</a>
 &nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></h3>
