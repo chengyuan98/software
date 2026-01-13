@@ -4,13 +4,13 @@
 
 官方下载：https://j.mp/fgp88
 
-本地下载：https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/fgp.zip
+本地下载：https://github.com/Alvin9999-newpac/fanqiang/wiki/%E8%87%AA%E7%94%B1%E9%97%A8%E5%92%8C%E6%97%A0%E7%95%8C
 
 #### 2、无界：
 
 官方下载：https://git.io/vEJlj
 
-本地下载：https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/u.zip
+本地下载：https://github.com/Alvin9999-newpac/fanqiang/wiki/%E8%87%AA%E7%94%B1%E9%97%A8%E5%92%8C%E6%97%A0%E7%95%8C
 
 #### 3、赛风：
 
@@ -41,18 +41,17 @@
 
 #### 直接点击下列链接阅读：
 
-<h3><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/nf1351518.md#1">&nbsp;&nbsp;大纪元新闻首页</a></h3>
+<h3><a target="_blank" href="https://github.com/1992513/djy/blob/master/gb/nf1351518.md#1">&nbsp;&nbsp;大纪元新闻首页</a></h3>
 
-<h3><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog204.md#1">&nbsp;&nbsp;新唐人新闻首页</a></h3>
+<h3><a target="_blank" href="https://github.com/1992513/ntdtv/blob/master/gb/dongtaiwang.md#1">&nbsp;&nbsp;新唐人新闻首页</a></h3>
 
-<h3><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/pages/special.md">明慧特刊</a>
-&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/cangsheng.md">天地苍生</a></h3>
-<h3><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/hongfu.md">天赐洪福</a>
-&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huabao.md">明慧画报</a></h3>
-<h3><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/mingbai.md">《明白》</a>
-&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/zhenxiang.md">《真相》</a></h3>
-<h3><a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/huisheng.md">《慧声》</a>
-&nbsp;&nbsp;<a target="_blank" href="https://github.com/gfw-breaker/mh-qikan/blob/master/indexes/xiwang.md">《希望》</a></h3>
+<h3><a target="_blank" href="https://github.com/1992513/qikan/blob/master/category.aspx/category/zhuanti/page_1.md#1">明慧特刊</a>
+<p><a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5139/page_1.md#1">《天地苍生》</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5240/page_1.md#1">《真相》</a></p>
+<p><a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5178/page_1.md#1">《明慧周报》</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/5638/page_1.md#1">《慧声》</a></p>
+<p><a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/11182/page_1.md#1">《祝你平安》</a>
+&nbsp;&nbsp;<a target="_blank" href="https://github.com/1992513/qikan/blob/master/display.aspx/qikan_type_id/7500/page_1.md#1">《金种子》</a></p></h3>
 
 
 ### 推荐使用谷歌Chrome浏览器：
